@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/etc/postgresql'
+let g:netrw_dirhist_7='/home/kieran/.vim'
+let g:netrw_dirhist_6='/'
+let g:netrw_dirhist_5='/home'
+let g:netrw_dirhist_4='/home/kieran'
+let g:netrw_dirhist_3='/home/kieran/.config'
+let g:netrw_dirhist_2='/home/kieran/.config/sxhkd'
+let g:netrw_dirhist_1='/home/kieran/.config/sxhkd/sxhkdrc'
